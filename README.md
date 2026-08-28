@@ -3,4 +3,5 @@ This skill will look for aggressive language, presumptive language, negative rei
 
 **Usage**
 **/toner** <text>
+
 **/toner** <link to doc>
